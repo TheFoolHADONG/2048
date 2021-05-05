@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1620215450 source:c:\users\admin\documents\nam1daihoc\ltnc\sdl\2048thefool\main.cpp
+	<iostream>
+	<SDL.h>
+	<time.h>
+	<SDL_mixer.h>
+
+1561870398 c:\users\admin\documents\nam1daihoc\ltnc\sdl2_image-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870368 c:\users\admin\documents\nam1daihoc\ltnc\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870368 c:\users\admin\documents\nam1daihoc\ltnc\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
